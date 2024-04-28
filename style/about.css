@@ -1,0 +1,20 @@
+#aboutme h2{
+    text-align: center;
+}
+
+
+#sosmed {
+    text-align: center;
+}
+
+.medsos {
+  font-size: 30px;
+}
+
+.medsos i {
+  padding-left: 10px;
+}
+
+.medsos i:hover {
+  transform: scale(1.1);
+}
