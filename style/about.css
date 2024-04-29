@@ -1,10 +1,19 @@
-#aboutme h2{
-    text-align: center;
+#aboutme h2 {
+  text-align: center;
 }
 
-
 #sosmed {
-    text-align: center;
+  text-align: center;
+}
+
+#infor1 {
+  justify-content: center;
+  display: flex;
+}
+
+#infor1 img {
+  width: 15rem;
+  margin-bottom: 10px;
 }
 
 .medsos {
